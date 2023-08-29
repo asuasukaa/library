@@ -12,6 +12,7 @@ a {
 }
 .number{
  display: flex;
+background-color:#FFFFCC;
 }
 .number p{
   width: 50%;
